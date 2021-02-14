@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[Website](https://elated-mayer-574cf5.netlify.app)
+[Website](https://pedantic-colden-697816.netlify.app/)
 
 ## Available Scripts
 
